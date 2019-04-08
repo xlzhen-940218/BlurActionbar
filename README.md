@@ -1,4 +1,6 @@
-# 它是一个实时渲染磨砂玻璃效果的Actionbar
+# 它是一个实时渲染磨砂玻璃效果的Actionbar 
+渲染帧数请看视频 [视频地址](video/screen_recorder.mp4)
+一般中高端手机下可以稳定30帧运行。
 ## 1.使用方法
 ```
     gridView.setOnScrollListener(new AbsListView.OnScrollListener() {
