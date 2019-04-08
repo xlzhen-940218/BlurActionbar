@@ -2,7 +2,7 @@
 渲染帧数请看视频 [视频地址](https://github.com/xlzhen-940218/BlurActionbar/tree/master/video/screen_recorder.mp4)
 一般中高端手机下可以稳定30帧运行。
 #### Gif截图
-![avatar](https://github.com/xlzhen-940218/BlurActionbar/tree/master/gif/screen.gif)
+![avatar](https://github.com/xlzhen-940218/BlurActionbar/blob/master/gif/screen.gif)
 ## 1.使用方法
 ```
     gridView.setOnScrollListener(new AbsListView.OnScrollListener() {
